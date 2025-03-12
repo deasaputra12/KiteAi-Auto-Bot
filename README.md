@@ -1,4 +1,4 @@
-# Kite AI Auto-Bot
+# Kite AI Bot
 
 An automated interaction bot for Kite AI platform with multi-wallet and proxy support. 
 
