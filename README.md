@@ -19,7 +19,7 @@ An automated interaction bot for Kite AI platform with multi-wallet and proxy su
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/airdropindependen/KiteAi-Auto-Bot.git
+git clone https://github.com/deasaputra12/KiteAi-Auto-Bot.git
 cd KiteAi-Auto-Bot
 ```
 
@@ -62,7 +62,3 @@ You can modify the following settings in `index.js`:
 - `agents`: Modify available AI agents
 - `intervalBetweenCycles`: Change delay between interaction cycles
 
-## 📢 Support
-
-Join our Telegram channel for updates and support:
-https://t.me/AirdropIndependen
