@@ -1,20 +1,14 @@
 # Kite AI Auto-Bot
 
-An automated interaction bot for Kite AI platform with multi-wallet and proxy support.
+An automated interaction bot for Kite AI platform with multi-wallet and proxy support. 
 
-## Register 
-
-- https://testnet.gokite.ai/?r=kxsQ3byj 
 
 ## 🌟 Features
 
-- Multiple wallet support (manual input or file-based)
 - Proxy support (HTTP/HTTPS/SOCKS)
 - Rate limiting and retry mechanisms
 - Multiple AI agents interaction
 - Automatic question selection
-- Usage reporting
-- Graceful error handling
 
 ## 📋 Prerequisites
 
@@ -44,7 +38,8 @@ socks5://user:pass@host:port
 
 2. Create a `wallets.txt` file for multiple wallets:
 ```
-
+0x1234567890abcdef1234567890abcdef12345678
+0xabcdef1234567890abcdef1234567890abcdef12
 ```
 
 ## 🚀 Usage
@@ -71,11 +66,3 @@ You can modify the following settings in `index.js`:
 
 Join our Telegram channel for updates and support:
 https://t.me/AirdropIndependen
-
-## ⚠️ Disclaimer
-
-This bot is for educational purposes only. Use at your own risk and ensure compliance with Kite AI's terms of service.
-
-## 📜 License
-
-MIT License - feel free to use and modify for your own purposes.
